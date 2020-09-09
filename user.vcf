@@ -7,8 +7,8 @@ ORG:COLEGIO NG LUNGSOD NG BATANGAS;
 TITLE:Creating Lifelong Builders
 EMAIL;type=INTERNET;type=WORK;type=pref:colegionglungsodngbatangas2017@gmail.com
 TEL;type=WORK;type=VOICE:0434021450
-'item1.ADR;type=WORK;type=pref:;;A. de las alas Drive, Barangay 20, Poblacion;;;Batangas City;Batangas
-'item1.X-ABADR:sg
+item1.ADR;type=WORK;type=pref:;; ;; ;
+item1.X-ABADR:sg
 item2.URL;type=pref:https://www.facebook.com/CLB.officialpage
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
